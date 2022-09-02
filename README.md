@@ -8,4 +8,8 @@
     bash install.sh
     bash exploit.sh
    
-## m
+## rejaul by profile
+
+<!--[profile](./confbin2.jpg)-->
+
+<img src="rejaul2712.jpg" width="600"/>
