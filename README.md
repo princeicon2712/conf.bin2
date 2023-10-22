@@ -8,9 +8,18 @@
 
     git clone https://github.com/princeicon2712/conf.bin2.git
 
-    unzip conf.bin2.zip 
-
     cd conf.bin2
+    
+    unzip conf.bin2.zip
+
+    chmod +x *
+
+    python tplink.py conf.xml 192.168.0.1
+   
+
+    
+
+    
 
 
 ## USE for exm:-
