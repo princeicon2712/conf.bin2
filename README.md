@@ -1,8 +1,10 @@
 # conf.bin2 install now:
 
-pkg update && pkg upgrade -y
-pkg install git python -y
-pip3 install pycryptodome
+     pkg update && pkg upgrade -y
+     
+     pkg install git python -y
+     
+     pip3 install pycryptodome
 
     git clone https://github.com/princeicon2712/conf.bin2.git
 
