@@ -8,7 +8,7 @@
 
     git clone https://github.com/princeicon2712/conf.bin2.git
 
-    unzip 
+    unzip conf.bin2.zip 
 
     cd conf.bin2
 
